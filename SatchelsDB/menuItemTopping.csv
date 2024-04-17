@@ -1,0 +1,111 @@
+﻿1,SatchPan Slice,0.00,0.00,SATCH PAN SLICE," SATCH PAN SLICE",0,0,0,0,1,0,0,0,0,1,0,1,6,0.00,1,1
+3,Cheese Calzone,0.00,0.00,Cheese Calzone,Cheese Calzone,0,0,0,0,0,1,0,0,0,1,0,0,6,0.00,0,1
+5,Steak & Cheese Calzone,0.10,0.10,SteakNCheese Calzone,Steak & Cheese Calzone,0,0,0,0,0,1,0,0,0,0,0,0,6,0.00,0,1
+6,Major,1.00,7.00,MAJOR,MAJOR,0,0,0,0,1,1,0,0,0,0,0,0,9,0.00,1,1
+7,Anchovies,5.00,37.00,Anchovies,Anchovies!,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+8,Artichoke Hearts,10.00,20.00,Artichokes,Arts,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+9,Bacon,15.00,15.00,Bacon,Bacon,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+10,Banana Peppers,20.00,36.00,Banana Peppers,Ban. Pprs.,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+11,Basil,25.00,40.00,Basil,BASIL,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,1,1
+12,Beef,30.00,19.00,Beef,Beef,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+13,Black Olives,35.00,27.00,Black Olives,Blk. Olv.,1,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+14,Broccoli,40.00,20.50,Broccoli,Broc,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+15,Butter OK,45.00,51.00,Butter OK,Butter OK,0,0,0,0,1,1,0,1,0,1,0,0,7,0.00,0,1
+16,Carrots (Pizza/Calzone),50.00,30.60,Carrots,Carrots,0,0,0,0,1,1,0,0,0,0,0,0,1,0.00,0,1
+17,Cheese (Pizza),55.00,0.20,Cheese,Cheese,0,1,0,0,1,0,0,0,1,1,0,0,2,0.00,0,1
+18,Crispy Cook,60.00,54.00,Crispy Cook,COOKED CRISPY,0,0,0,1,0,0,0,1,0,1,0,0,7,0.00,1,1
+19,Cut into 12,65.00,55.00,Cut Into 12,CUT INTO 12,0,0,0,0,1,0,0,1,0,1,0,2,7,0.00,1,1
+20,Follow UR Heart,83.00,11.00,Follow UR Heart,Follow UR Heart,0,0,0,0,1,1,0,0,0,0,0,0,3,0.00,1,1
+21,Dressing On Side,75.00,0.00,Dressing O/S,D.O.S.,0,0,0,0,0,0,1,0,0,0,0,0,7,0.00,1,1
+22,Extra Pizza Sauce on Pizza,80.00,5.00,Extra P Sauce OP,EXTRA P SAUCE ON PIE,0,0,0,0,1,0,0,1,0,1,0,0,4,1.50,1,1
+23,Extra Pizza Sauce On Side,85.00,59.00,Extra P Sauce O/S,EXTRA P SAUCE O/S,0,0,0,0,1,1,0,1,0,1,0,2,4,1.50,0,1
+24,"Feta ",90.00,30.30,Feta,Feta,0,0,0,0,1,1,1,0,1,0,0,0,1,0.00,0,1
+25,Ham,115.00,18.00,Ham,Ham,0,0,0,0,1,1,1,0,1,0,0,0,1,0.00,0,1
+27,Garlic,95.00,8.00,Garlic,Garlic,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+29,Green Olives,105.00,28.00,Green Olives,GOlives,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+30,Green Peppers,110.00,22.00,Green Peppers,Green PEPPERS,1,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+31,Jalapenos,120.00,34.00,Jalapenos,Jalap,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+32,Joiner,125.00,0.50,Joiner,JOINER,0,0,0,0,1,1,1,0,0,1,0,0,7,0.00,1,1
+34,Kid Cook,130.00,52.00,Kid Cook,KID COOK,0,0,0,1,0,0,0,1,0,1,0,0,7,0.00,1,0
+35,"Light Cook ",135.00,53.00,Light Cook,LIGHT COOK,0,0,0,1,0,0,0,1,0,1,0,0,7,0.00,1,1
+36,Light Sauce,140.00,4.00,Light Sauce,LIGHT SAUCE,0,0,0,0,1,0,0,0,0,1,0,0,7,0.00,1,1
+37,Meatballs,145.00,16.00,Meatballs,Meatballs,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+38,Mushrooms,150.00,14.00,Mushrooms,Mush,1,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+39,No Butter,155.00,50.00,No Butter,NO BUTTER,0,0,0,0,1,1,0,1,0,1,0,0,7,0.00,1,1
+40,No Pizza Sauce,159.00,6.00,No Pizza Sauce,NO SAUCE,0,0,0,0,1,0,0,0,0,1,0,2,7,0.00,1,1
+41,No Cut,155.50,56.00,No Cut,NO CUT,0,0,0,0,1,0,0,0,0,1,0,0,4,0.00,1,1
+42,Out First,165.00,0.60,Out First,OUT FIRST,0,0,0,0,1,1,1,0,0,1,0,0,7,0.00,1,1
+43,Pesto Instead of Pizza Sauce,170.00,1.00,Pesto Instead of P. Sauce,Pesto instead of P.Sauce,0,0,0,0,0,1,0,0,0,1,0,0,4,1.50,0,1
+44,Pineapple,175.00,33.00,Pineapple,Pnapl,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+45,Red Onions (Pizza),176.00,23.00,Red Onions,Red-O,0,0,0,0,1,1,0,0,0,0,0,0,1,0.00,0,1
+46,Ricotta Topping,185.00,39.00,Ricotta,Ric,0,0,0,0,1,0,0,0,1,0,0,0,1,0.00,0,1
+47,Ricotta (Calzone),183.00,0.20,Ricotta,Ricotta,0,1,0,0,0,1,0,0,0,1,0,0,2,0.00,0,1
+48,Roasted Red Pepper,195.00,32.00,RRP,RRP,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+49,Sausage,200.00,16.50,Sausage,Sausg,1,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+50,Slice Cut In Half Same Plate,205.00,57.00,Slice Cut in Half Same Plate,slice cut in half same plate,0,0,0,0,1,0,0,1,0,1,0,1,7,0.00,0,1
+51,Slice Cut in Half Separate Plate,210.00,58.00,Slice Cut in Half Separate Plate,slice cut in half sep plate,0,0,0,0,1,0,0,1,0,1,0,1,7,0.00,0,1
+52,Takeout Bring To Table,215.00,60.00,T/O Bring 2 Tbl,TAKEOUT-BRING2TABLE,0,0,0,0,1,1,1,0,0,1,0,0,7,0.00,1,1
+53,Takeout Keep In Kitchen,220.00,61.00,T/O Keep Kitch,TAKEOUT-KEEPINKITCH,0,0,0,0,1,1,1,0,0,1,0,0,7,0.00,1,1
+54,TEESE,225.00,10.00,TEESE,TEESE,0,0,0,0,1,1,0,0,0,0,0,0,3,0.00,1,0
+55,Tempeh BBQ,230.00,26.00,Tempeh BBQ,Tempeh BBQ,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+56,Tempeh Original,235.00,24.00,Tempeh Original,Tempeh Original,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,0
+57,Onion (Pizza/Calzone),163.50,21.00,Onion,Onion,1,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+58,Pepperoni,166.00,13.00,Pepperoni,Roni,1,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+60,Spinach,212.00,12.00,Spinach,Spin,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+61,Steak,213.00,17.00,Steak,Stk,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+62,Sundried Tomatoes,214.00,30.00,Sundried Toms,Sun,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+63,Tomatoes (Pizza),237.00,31.00,Tomatoes,Toms,0,0,0,0,1,1,0,0,0,0,0,0,1,0.00,0,1
+64,White Base,270.00,2.00,White Base,WHITE BASE,0,0,1,0,0,0,0,1,0,1,0,2,8,0.00,1,1
+65,Zucchini,300.00,26.50,Zucchini,Zuc,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+66,Pizza Sauce,177.00,3.00,Pizza Sauce,P SAUCE,0,0,0,0,0,0,0,0,0,1,0,0,4,1.50,1,1
+69,Garlic Butter,97.00,0.00,Garlic Butter inst/of  P Sauce,Gar Butter instead of P. Sauce,0,0,0,0,0,0,0,0,0,1,0,0,4,1.50,0,1
+70,Pesto On Side,173.00,62.00,Pesto O/S,Pesto O/S,0,0,0,0,0,0,0,0,0,1,0,0,4,4.00,0,1
+71,Pesto Base,167.00,1.00,Pesto Base,PESTO BASE,0,0,1,0,0,0,0,1,0,1,0,2,8,0.00,1,1
+72,75 Cents Upcharge,92.00,0.00,0.75 Cents Upcharge,$0.75 upcharge,0,0,0,0,0,0,1,0,0,1,0,0,4,0.75,0,1
+73,Cheese (Salad),57.00,0.00,Cheese," Cheese",0,0,0,0,0,0,1,0,0,0,0,0,7,0.00,0,1
+74,Extra Dressing On Salad,77.00,0.00,Extra Dressing On Salad,Extra Dressing On Salad,0,0,0,0,0,0,1,0,0,0,0,0,4,2.00,0,1
+75,Almonds,4.00,0.00,Almonds,Almonds,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+76,Apples,7.00,0.00,Apples,Apples,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+77,Carrots (Salad),52.00,0.00,Carrots,Carrots,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+78,Cucumbers,61.00,0.00,Cucumbers,Cucumbers,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+79,Lettuce,132.00,0.00,Lettuce,Lettuce,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+80,No Dressing,156.00,0.00,No Dressing,NO DRESSING,0,0,0,0,0,0,1,0,0,0,0,0,7,0.00,1,1
+82,No Nuts No Seeds,157.00,0.00,"No Nuts, No Seeds","No Nuts, No Seeds",0,0,0,0,0,0,1,0,0,0,0,0,7,0.00,0,1
+83,No Nuts Seeds OK,158.00,0.00,"No Nuts, SEEDS OK","No Nuts, Seeds OK",0,0,0,0,0,0,1,0,0,0,0,0,7,0.00,0,1
+84,Nuts & Seeds On Side,161.00,0.00,Nuts & Seeds O/S,Nuts and Seeds O/S,0,0,0,0,0,0,1,0,1,0,0,0,7,0.00,0,1
+85,Red Onion (Salad),180.00,0.00,Red Onion,Red Onion,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+86,Pecans/Walnuts,165.50,0.00,Pecans/Walnuts,"Pecans,Walnuts",0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+88,Seeds,202.00,0.00,Seeds,Seeds,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+89,Tomatoes (Salad),266.00,0.00,Tomatoes,Toms,0,0,0,0,0,0,1,0,1,0,0,3,7,0.00,0,1
+90,With Order,272.00,0.00,With Order,W. Order,0,0,0,0,0,0,1,0,0,1,0,0,7,0.00,0,1
+91,Garlic Butter Instead of Pizza Sauce,98.00,0.00,Garlic Butter I/O P. Sauce,Garlic Butter instead of P. Sauce,0,0,0,0,0,0,0,1,0,1,0,0,7,0.00,0,1
+92,Salad with Order,199.00,0.40,Salad with Order,SALAD W ORDER,0,0,0,0,1,1,1,0,0,1,0,0,7,0.00,1,1
+94,With Salad,0.00,0.45,With Salad,WITH SALAD,0,0,0,0,1,1,0,1,0,1,0,0,7,0.00,1,1
+95,Mozzarella (Calzone),149.00,0.25,Mozarella,Mozzarella,0,1,0,0,0,1,0,0,0,1,0,0,2,0.00,0,1
+96,Pesto Topping,171.00,39.50,Pesto (Topping),Pesto Topping,0,0,0,0,1,1,0,0,0,0,0,0,3,0.00,0,1
+98,Toss with Salad Dressing,267.00,0.00,Takeout Tossed,Takeout Tossed,0,0,0,0,0,0,1,0,0,1,0,0,7,0.00,0,1
+99,Extra Dressing O/S,75.20,0.00,Extra D.O.S.,Extra D.O.S.,0,0,0,0,0,0,1,0,0,0,0,0,4,2.00,0,1
+100,Hot Honey,117.00,45.00,Hot Honey,HOT HONEY,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,1,1
+101,Pizza Sauce Inside,172.00,0.90,P. Sauce Inside,P. Sauce Inside,0,0,0,0,0,1,0,0,0,1,0,0,7,0.00,0,1
+102,Pesto Inside,168.00,0.80,Pesto Inside,Pesto Inside,0,0,0,0,0,1,0,0,0,1,0,0,3,0.00,0,1
+104,Extra Nuts & Seeds,80.00,0.00,Extra Nuts & Seeds,Extra Nuts & Seeds,0,0,0,0,0,0,1,0,0,1,0,0,7,0.00,0,1
+105,Extra Cheese,75.10,39.50,Extra Cheese,Extra Cheese,0,1,0,0,1,0,0,0,0,0,0,0,1,0.00,0,1
+106,Out Now,0.00,0.00,Out Now,Out Now,0,0,0,0,0,0,0,0,0,1,0,0,7,0.00,0,1
+107,Sliced (Apples),0.00,0.00,Sliced,Sliced,0,0,0,0,0,0,0,0,0,1,0,0,7,0.00,0,1
+108,Diced (Apples),0.00,0.00,Diced,Diced,0,0,0,0,0,0,0,0,0,1,0,0,7,0.00,0,1
+109,Hot (Side),0.00,0.00,Hot,Hot,0,0,0,0,0,0,0,0,0,1,0,0,7,0.00,0,1
+110,Cold (Side),0.00,0.00,Cold,Cold,0,0,0,0,0,0,0,0,0,1,0,0,7,0.00,0,1
+111,Ferenbacher Hot Rope,0.50,0.15,Ferenbacher Hot Rope,Ferenbacher Hot Rope,0,0,0,0,0,1,0,0,0,0,0,0,3,0.00,0,1
+115,Tempeh Sausage,236.00,23.50,Tempeh Sausage,Tempeh Sausage,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+116,Tempeh Chorizo,232.00,25.00,Tempeh Chorizo,Tempeh Chorizo,0,0,0,0,1,1,0,0,1,0,0,0,1,0.00,0,1
+117,"No Cheese, Add Daiya",0.00,0.00,"No Cheese, Add Daiya","No Cheese, Add Daiya",0,0,0,0,0,0,1,0,0,0,0,0,1,1.00,0,0
+118,"No Cheese, Add Follow Ur Heart",0.00,0.00,"No Cheese, Add Follow Ur Heart","No Cheese, Add Follow Ur Heart",0,0,0,0,0,0,1,0,0,0,0,0,1,2.00,1,1
+119,Myokos with Cheese,152.00,0.00,Myokos with Cheese,Myokos with Cheese,0,0,0,0,1,1,0,0,0,0,0,0,3,0.00,1,0
+120,Myokos NO CHEESE,152.00,0.00,Myokos NO CHEESE,Myokos NO CHEESE,0,0,0,0,1,1,0,0,0,0,0,0,3,0.00,1,1
+121,Tammy Ranch,301.00,40.00,Tammy Ranch,Tammy Ranch,0,0,0,0,1,1,1,0,0,0,0,0,4,2.00,1,1
+122,Ranch instead of P. Sauce,303.00,1.00,Ranch instead of P. Sauce,Ranch instead of P. Sauce,0,0,0,0,0,1,0,0,0,0,0,0,7,0.00,1,1
+123,Ranch instead of Dressing,303.00,0.00,Ranch instead of Dressing,Ranch instead of Dressing,0,0,0,0,0,0,1,0,0,0,0,0,7,0.00,1,1
+124,"Vegan Cheese for Spec Salad ",0.00,0.00,"Vegan Cheese for Spec Salad ","Vegan Cheese for Spec Salad ",0,0,0,0,0,0,0,0,0,0,0,0,1,1.00,1,1
+125,Vegan Cheese for Small Salad,0.00,0.00,Vegan Cheese for Small Salad,Vegan Cheese for Small Salad,0,0,0,0,0,0,1,0,0,0,0,0,1,2.00,1,1
+126,Vegan Cheese for Large Salad,0.00,0.00,Vegan Cheese for Large Salad,Vegan Cheese for Large Salad,0,0,0,0,0,0,1,0,0,0,0,0,1,4.00,1,1
+127,Two Tammy Ranch,302.00,41.00,Two Tammy Ranch,Two Tammy Ranch,0,0,0,0,1,1,1,0,0,0,0,0,4,4.00,1,1
