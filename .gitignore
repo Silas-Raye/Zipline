@@ -1,0 +1,8 @@
+# Ignore all .csv files
+*.csv
+
+# Ignore a specific file
+SatchelsDB_bak_file_2024_03_29.zip
+
+# Ignore a specific directory
+SatchelsDB/
